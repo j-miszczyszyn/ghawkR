@@ -21,7 +21,7 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(ghawkR)
-x=sample_data
+# x=Path to your file
 x= read.table("Lot_nr_1.txt")
 x=thin_records(x,100)
 x=colnames_Trajectory(x)
