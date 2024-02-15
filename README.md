@@ -20,14 +20,14 @@ devtools::install_github("j-miszczyszyn/ghawkR")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-library(ghawkR)
+# library(ghawkR)
 # x=Path to your file
-x= read.table("Lot_nr_1.txt")
-x=thin_records(x,100)
-x=colnames_Trajectory(x)
-
-x=table_to_spatial(x, coords = c(2,3), remove=FALSE)
-plot_points_coord(x)
+# x= read.table("Lot_nr_1.txt")
+# x=thin_records(x,100)
+# x=colnames_Trajectory(x)
+# 
+# x=table_to_spatial(x, coords = c(2,3), remove=FALSE)
+# plot_points_coord(x)
 
 # x=Path to folder
 # test=merge_flights(x, algorithm="Trajectory", thin=TRUE, thin_value = 100)
