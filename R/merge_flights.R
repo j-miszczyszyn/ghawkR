@@ -1,9 +1,10 @@
+
 #' Title
 #'
-#' @param thin_value
 #' @param x
 #' @param algorithm
 #' @param thin
+#' @param thin_value
 #'
 #' @return
 #' @export
@@ -34,4 +35,4 @@ merge_flights=function(x, algorithm, thin, thin_value){
   }
   return(empty_to_fill)
 }
-``
+

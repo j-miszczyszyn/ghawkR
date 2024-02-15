@@ -1,6 +1,6 @@
 Package: ghawkR
 Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.1
+Version: 0.0.2
 Authors@R: 
     person("Jakub", "Miszczyszyn", , "jakub.miszczyszyn@urk.edu.pl", role = c("cre","aut"),
            comment = c(ORCID = "0009-0002-8592-946X"))
