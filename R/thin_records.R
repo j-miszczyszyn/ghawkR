@@ -8,5 +8,5 @@
 #'
 #' @examples
 thin_records=function(x,y){
-  data.frame(seq(1, nrow(x), y))
+  x=seq(1, nrow(x), y)
   }
