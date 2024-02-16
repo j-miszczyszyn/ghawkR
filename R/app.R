@@ -1,3 +1,9 @@
+#' Title
+#'
+#' @return
+#' @export
+#'
+#' @examples
 run_Shiny_ghawkR=function(){
 library(shiny)
 library(ghawkR)
