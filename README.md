@@ -1,10 +1,10 @@
-
+<img src="man/figures/logo_ghawk.png" align="right" alt="" width="300" /> \#
 # ghawkR
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of ghawkR is to ...
+The goal of ghawkR is to help ypu in work with data exported from gAirHawk.
 
 ## Installation
 

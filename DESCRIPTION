@@ -14,3 +14,4 @@ Suggest: here
 LazyData: FALSE
 Depends: 
     R (>= 2.10)
+URL: https://j-miszczyszyn.github.io/ghawkR/
